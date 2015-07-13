@@ -21,3 +21,5 @@ cp athena-example/target/athena-example-rest-0.0.1.tar.gz ./releases/athena-rest
 cp ./athena-doc/* ./releases/athena-rest-0.0.1-release/
 
 rm -fr ./releases/athena-rest-0.0.1-release/md/
+
+tar zcvf ./releases/athena-rest-0.0.1-release.tar.gz ./releases/athena-rest-0.0.1-release

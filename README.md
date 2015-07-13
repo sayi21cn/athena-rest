@@ -44,3 +44,5 @@
 <br>
 - <a href="http://cloudate.net/wp-content/uploads/2015/01/cloudate-qrcode.jpg"><img src="http://cloudate.net/wp-content/uploads/2015/01/cloudate-qrcode.jpg" alt="cloudate-qrcode" width="90" height="90" class="alignnone size-full wp-image-1138" /></a>
 
+## 关于作者
+- 罗伯特出品   微信： 13436881186
