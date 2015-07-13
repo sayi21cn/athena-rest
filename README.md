@@ -4,11 +4,11 @@
 
 ##主页
 
->**[http://athena.cloudate.net/athena/index.html](http://athena.cloudate.net/athena/index.html)**
+>**[http://athena.cloudate.net/](http://athena.cloudate.net/)**
 
 ##版本
 
->当前版本: **[0.0.1](http://athena.cloudate.net/athena/index.html)**
+>当前版本: **[0.0.1](http://athena.cloudate.net/)**
 
 ##下载
 
