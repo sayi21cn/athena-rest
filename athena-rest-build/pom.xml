@@ -4,11 +4,11 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.wanda.athena</groupId>
+		<groupId>com.robert.athena</groupId>
 		<artifactId>athena-rest-framework</artifactId>
 		<version>0.0.1</version>
 	</parent>
-	<groupId>com.wanda.athena</groupId>
+	<groupId>com.robert.athena</groupId>
 	<artifactId>athena-rest-build</artifactId>
 	<version>0.0.1</version>
 	<name>athena-rest-build</name>

@@ -7,6 +7,6 @@
 		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
 	
-    <context:component-scan base-package="com.wanda.athena.example.service"></context:component-scan>
+    <context:component-scan base-package="com.robert.athena.example.service"></context:component-scan>
     
 </beans>

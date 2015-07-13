@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<parent>
-		<groupId>com.wanda.athena</groupId>
+		<groupId>com.robert.athena</groupId>
 		<artifactId>athena-example</artifactId>
 		<version>0.0.1</version>
 	</parent>
 	
-	<groupId>com.wanda.athena</groupId>
+	<groupId>com.robert.athena</groupId>
 	<artifactId>athena-example-rest</artifactId>
 	<version>0.0.1</version>
 	<name>athena-example-rest</name>
@@ -28,13 +28,13 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.wanda.athena</groupId>
+			<groupId>com.robert.athena</groupId>
 			<artifactId>athena-rest-webapp</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
-			<groupId>com.wanda.athena</groupId>
+			<groupId>com.robert.athena</groupId>
 			<artifactId>athena-example-service</artifactId>
 			<version>0.0.1</version>
 		</dependency>
@@ -90,7 +90,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.wanda.athena.rest.container.AthenaRestMainServer</mainClass>
+							<mainClass>com.robert.athena.rest.container.AthenaRestMainServer</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

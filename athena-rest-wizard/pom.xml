@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.wanda.athena</groupId>
+	<groupId>com.robert.athena</groupId>
 	<artifactId>athena-rest-wizard</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
@@ -22,7 +22,7 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.wanda.athena</groupId>
+			<groupId>com.robert.athena</groupId>
 			<artifactId>athena-rest-comm</artifactId>
 			<version>0.0.1</version>
 			<scope>compile</scope>
@@ -44,7 +44,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.wanda.athena.restwizard.AthenaRestWizard</mainClass>
+							<mainClass>com.robert.athena.restwizard.AthenaRestWizard</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

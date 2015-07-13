@@ -10,7 +10,7 @@
 
 	<aop:aspectj-autoproxy />
 
-	<context:component-scan base-package="com.wanda.athena.rest.container.admin"></context:component-scan>
+	<context:component-scan base-package="com.robert.athena.rest.container.admin"></context:component-scan>
 
 	<bean
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">

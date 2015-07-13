@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.wanda.athena</groupId>
+		<groupId>com.robert.athena</groupId>
 		<artifactId>athena-example</artifactId>
 		<version>0.0.1</version>
 	</parent>
 
-	<groupId>com.wanda.athena</groupId>
+	<groupId>com.robert.athena</groupId>
 	<artifactId>athena-example-data</artifactId>
 	<version>0.0.1</version>
 	<name>athena-example-data</name>

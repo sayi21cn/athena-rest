@@ -18,7 +18,7 @@
 		</property>
 	</bean>
 
-	<context:component-scan base-package="com.wanda.athena.example.rest"></context:component-scan>
+	<context:component-scan base-package="com.robert.athena.example.rest"></context:component-scan>
 
 	<import resource="classpath:spring/athena-rest-service.xml" />
 </beans>
