@@ -1,0 +1,9 @@
+/target
+/distribution
+/.settings
+.project
+.classpath
+*.class
+*.tmp
+/tomcat.10025
+/target

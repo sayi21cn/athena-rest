@@ -1,0 +1,22 @@
+<assembly>
+	<id>bin</id>
+	<formats>
+		<format>tar.gz</format>
+	</formats>
+	
+	<includeBaseDirectory>false</includeBaseDirectory>
+
+	<fileSets>
+		<fileSet>
+			<outputDirectory></outputDirectory>
+			<directory>${basedir}/src/main/release-bin</directory>
+		</fileSet>
+
+		<fileSet>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>${basedir}/README.txt</include>
+			</includes>
+		</fileSet>		
+	</fileSets>
+</assembly>

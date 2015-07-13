@@ -1,0 +1,1 @@
+This folder is deprecated. These scripts are moved to jenkins-resources repo.
