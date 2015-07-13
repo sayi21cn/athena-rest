@@ -20,5 +20,5 @@ cp ./athena-rest-wizard/target/athena-rest-wizard-0.0.1-bin.zip ./releases/athen
 cp ./athena-example/target/athena-example-rest-0.0.1.tar.gz ./releases/athena-rest-0.0.1-release/
 
 
-tar zcvf ./releases/athena-rest-0.0.1-release.tar.gz ./releases/athena-rest-0.0.1-release
+tar zcvf ./releases/athena-rest-0.0.1-release.tar.gz -C ./releases/ athena-rest-0.0.1-release
 rm -fr ./releases/athena-rest-0.0.1-release
